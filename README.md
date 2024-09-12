@@ -1,2 +1,0 @@
-# MiPrimeraWeb
-Mi Primera Web
